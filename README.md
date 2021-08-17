@@ -27,13 +27,21 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 |[get-cover-art](https://pypi.org/project/get-cover-art/)||
 
 ## Possible Sources (alphabetical)
-- Apple Music
+- [Album Art Exchange](https://www.albumartexchange.com/)
 - Amazon Digital Music
 - Amazon CD
+- Apple Music
+- Ebay
 - Deezer
+- [Discogs](https://www.discogs.com/)
+- [Internet Archive](https://archive.org/details/album_covers)
 - Last.fm
+- [MusicBrainz](https://musicbrainz.org/)
 - SoundCloud
 - Spotify
 - Wikipedia
 - Youtube
 - Youtube Music
+
+(TODO: https://digital-audio-systems.com/download-sites-for-high-resolution-cover-art/?lang=en)  
+(TODO: https://coverartarchive.org/)
