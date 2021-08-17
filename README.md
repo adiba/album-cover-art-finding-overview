@@ -44,4 +44,5 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 - Youtube Music
 
 (TODO: https://digital-audio-systems.com/download-sites-for-high-resolution-cover-art/?lang=en)  
-(TODO: https://coverartarchive.org/)
+(TODO: https://coverartarchive.org/)  
+(TODO: https://community.mp3tag.de/t/discoverart-batch-import-album-cover-art-based-on-artist-and-title/14521)
