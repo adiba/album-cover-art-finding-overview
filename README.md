@@ -1,4 +1,6 @@
 # Music Album Cover Art Finders: Overview and Comparison
+THIS IS WORK IN PROGRESS.
+
 Apps or scripts for searching for or automatic finding and downloading of music album cover art.
 ## GUI Apps
 | Name | Platform | Open-Source | Free | Auto-Select | Auto-Store | Bulk | Remarks |
