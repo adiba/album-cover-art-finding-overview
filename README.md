@@ -12,6 +12,7 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 | [MediaMonkey](https://www.mediamonkey.com/) |
 | [Bliss](https://www.blisshq.com/) |
 | [TidyMyMusic](https://www.wondershare.net/ad/tidymymusic-mac/) |
+| SongKong? |
 
 (TODO: https://www.lifewire.com/free-cover-art-downloaders-for-digital-music-2438283)
 (TODO: https://hackerspad.net/software/album-cover-art-downloader/)
