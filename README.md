@@ -30,6 +30,7 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 |[get-cover-art](https://pypi.org/project/get-cover-art/)||
 
 ## Possible Sources (alphabetical)
+| Source | Usual Max Resolution |
 - [Album Art Exchange](https://www.albumartexchange.com/)
 - Amazon Digital Music
 - Amazon CD
@@ -39,12 +40,12 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 - [Discogs](https://www.discogs.com/)
 - [Internet Archive](https://archive.org/details/album_covers)
 - Last.fm
-- [MusicBrainz](https://musicbrainz.org/) (→ [API](https://musicbrainz.org/doc/MusicBrainz_API))
+- [MusicBrainz](https://musicbrainz.org/) (→ [API](https://musicbrainz.org/doc/MusicBrainz_API)) | 1400-1500 |
 - SoundCloud
 - Spotify
-- Wikipedia
-- Youtube (official music albums)
-- Youtube Music
+- Wikipedia | 300-500 |
+- Youtube (official music albums) | 1000-1250 |
+- [Youtube Music](https://music.youtube.com/) | 500-600 |
 
 (TODO: https://digital-audio-systems.com/download-sites-for-high-resolution-cover-art/?lang=en)  
 (TODO: https://coverartarchive.org/)  
