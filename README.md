@@ -8,14 +8,15 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 | [Creevity MP3 Cover Downloader](https://www.creevity.com/mp3coverdownloader/) | ? | no | yes | no | ? | no | |
 | [Album Art Downloader](https://sourceforge.net/projects/album-art/) | ? | [SourceForge](https://sourceforge.net/projects/album-art/)  | yes | ? | ? | ? | Custom sources |
 | [MusicBee](https://getmusicbee.com/) |
-| [Strawberry](https://www.strawberrymusicplayer.org/) | L, M, W | [GitHub](https://github.com/strawberrymusicplayer/strawberry) | yes | ||| Music player |
+| [Strawberry](https://www.strawberrymusicplayer.org/) (Music player) | L, M, W | [GitHub](https://github.com/strawberrymusicplayer/strawberry) | yes | |||  |
 | [MediaMonkey](https://www.mediamonkey.com/) |
 | [Bliss](https://www.blisshq.com/) | || Trial |
 | [TidyMyMusic](https://www.wondershare.net/ad/tidymymusic-mac/) |
 | SongKong? |
 | [Mp3tag](https://mp3tag.de/en/) |
-| [MusicBrainz Picard](https://picard.musicbrainz.org/)
-
+| [MusicBrainz Picard](https://picard.musicbrainz.org/) |
+| [Audio Ranger](https://www.audioranger.com/) |
+| [Yate Music Tagger](https://2manyrobots.com/Yate/) |
 (TODO: https://www.lifewire.com/free-cover-art-downloaders-for-digital-music-2438283)  
 (TODO: https://hackerspad.net/software/album-cover-art-downloader/)
 
