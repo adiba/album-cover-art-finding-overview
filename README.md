@@ -10,11 +10,13 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 | [MusicBee](https://getmusicbee.com/) |
 | [Strawberry](https://www.strawberrymusicplayer.org/) | L, M, W | [GitHub](https://github.com/strawberrymusicplayer/strawberry) | yes | ||| Music player |
 | [MediaMonkey](https://www.mediamonkey.com/) |
-| [Bliss](https://www.blisshq.com/) |
+| [Bliss](https://www.blisshq.com/) | || Trial |
 | [TidyMyMusic](https://www.wondershare.net/ad/tidymymusic-mac/) |
 | SongKong? |
+| [Mp3tag](https://mp3tag.de/en/) |
+| [MusicBrainz Picard](https://picard.musicbrainz.org/)
 
-(TODO: https://www.lifewire.com/free-cover-art-downloaders-for-digital-music-2438283)
+(TODO: https://www.lifewire.com/free-cover-art-downloaders-for-digital-music-2438283)  
 (TODO: https://hackerspad.net/software/album-cover-art-downloader/)
 
 ## Command Line Apps (Open-Source)
@@ -36,11 +38,11 @@ Apps or scripts for searching for or automatic finding and downloading of music 
 - [Discogs](https://www.discogs.com/)
 - [Internet Archive](https://archive.org/details/album_covers)
 - Last.fm
-- [MusicBrainz](https://musicbrainz.org/)
+- [MusicBrainz](https://musicbrainz.org/) (→ [API](https://musicbrainz.org/doc/MusicBrainz_API))
 - SoundCloud
 - Spotify
 - Wikipedia
-- Youtube
+- Youtube (official music albums)
 - Youtube Music
 
 (TODO: https://digital-audio-systems.com/download-sites-for-high-resolution-cover-art/?lang=en)  
